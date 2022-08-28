@@ -2,7 +2,7 @@
 
 
  body {
-    background-image: url(Homescreen.png);
+    background-image: url(./Homescreen.png);
     background-size: cover;
     font-family: 'Anek Telugu', sans-serif;
 }
